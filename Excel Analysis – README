@@ -1,0 +1,132 @@
+# 📊 Excel Analysis – README
+
+
+---
+
+## 1️⃣ Basic Data Analysis
+
+* Data Sorting (Ascending / Descending)
+* Data Filtering (Text, Number, Date )
+* Remove Duplicates
+* Find & Replace
+* Data Validation (Dropdown, Rules)
+
+---
+
+## 2️⃣ Descriptive Statistics
+
+* Sum, Average, Count
+* Max, Min
+* Median, Mode
+* Standard Deviation
+* Variance
+
+👉 Tools/Functions:
+`SUM()`, `AVERAGE()`, `COUNT()`, `MAX()`, `MIN()`, `STDEV()`
+
+---
+
+## 3️⃣ Data Cleaning
+
+* Blank cell identify ও fix 
+* Text cleaning (TRIM, CLEAN)
+* Format correction (Date, Number, Text)
+* Error handling (#N/A, #VALUE!)
+
+---
+
+## 4️⃣ Pivot Table Analysis
+
+* Large dataset summary 
+* Group-wise analysis (Month, Category, Region)
+* Percentage & Running Total
+* Drill-down analysis
+
+👉 Use case:
+
+* Sales summary
+* Expense breakdown
+* Performance analysis
+
+---
+
+## 5️⃣ Charts & Visualization
+
+* Bar Chart
+* Column Chart
+* Line Chart
+* Pie Chart
+* Area Chart
+* Combo Chart
+
+👉 Purpose:
+
+* Trend analysis
+* Comparison
+* Distribution visualization
+
+---
+
+## 6️⃣ Trend & Time Series Analysis
+
+* Month-wise / Year-wise comparison
+* Growth rate calculation
+* Moving Average
+* Forecast Sheet
+
+---
+
+## 7️⃣ Conditional Analysis
+
+* Conditional Formatting
+* IF, IFS functions
+* COUNTIF, SUMIF, AVERAGEIF
+
+👉 Example:
+
+* Target vs Achievement
+* Pass/Fail logic
+
+---
+
+## 8️⃣ Lookup & Reference Analysis
+
+* VLOOKUP / HLOOKUP
+* XLOOKUP
+* INDEX + MATCH
+
+👉 Use case:
+
+* Data matching
+* Master table 
+
+---
+
+## 9️⃣ What-If Analysis
+
+* Goal Seek
+* Scenario Manager
+* Data Table
+
+👉 Example:
+
+* Profit calculation based on price change
+* Budget planning
+
+---
+
+## 🔟 Advanced Analysis (Optional)
+
+* Power Query (Data import & transformation)
+* Power Pivot
+* Dashboard creation
+* Basic automation with Macros
+
+---
+
+## ✅ Tools Used
+
+* Microsoft Excel (2016 / 2019 / 365)
+
+---
+
